@@ -13,7 +13,10 @@ public class Main {
         System.out.println(CalculateArea.calculateArea(TypeShape.CIRCLE, 2));
 
         System.out.println(StringHelper.reverse("ab"));
+        System.out.println(StringHelper.encoder("CIELO"));
 
     }
+
+
 }
 
