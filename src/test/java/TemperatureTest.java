@@ -1,4 +1,4 @@
-import org.example.TemperatureConverter;
+import org.example.classes.TemperatureConverter;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
