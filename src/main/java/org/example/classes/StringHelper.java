@@ -25,13 +25,6 @@ public class StringHelper {
 //            the String with the vowels changed by numbers. Write all tests.
     public static String encoder(String s){
 
-//        switch(s){
-//            case "a":
-//
-//                break;
-//
-//        }
-
         if(s.contains("a")||s.contains("A")){
             s = s.replace("a", "4");
             s = s.replace("A", "4");
@@ -53,11 +46,5 @@ public class StringHelper {
              s = s.replace("U", "9");
          }
           return s;
-
-
     }
-
-
-
-
 }
